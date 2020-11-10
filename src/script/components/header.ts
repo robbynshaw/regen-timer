@@ -1,4 +1,5 @@
 import { LitElement, css, html, customElement, property } from 'lit-element';
+import '@pwabuilder/pwaauth';
 
 
 @customElement('app-header')
